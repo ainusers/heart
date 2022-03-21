@@ -21,5 +21,3 @@
 | Imputer | 缺失值计算 | 计算缺失值，缺失值可填充为均值等 |
 | PolynomialFeatures | 多项式数据转换 | 多项式数据转换 |
 | FunctionTransformer | 自定义单元数据转换 | 使用单变元的函数来转换数据 |
-
-### 3. 
